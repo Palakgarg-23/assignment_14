@@ -15,6 +15,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\hp\Desktop\gitapp\WebApplication1\WebApplication1
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/hp/Desktop/gitapp/WebApplication1/WebApplication1/Views/Empclasses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wY2xhc3Nlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/gitapp/WebApplication1/WebApplication1/Views/Empclasses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wY2xhc3Nlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/gitapp/WebApplication1/WebApplication1/Views/Empclasses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wY2xhc3Nlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/gitapp/WebApplication1/WebApplication1/Views/Empclasses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wY2xhc3Nlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/gitapp/WebApplication1/WebApplication1/Views/Empclasses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wY2xhc3Nlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/hp/Desktop/gitapp/WebApplication1/WebApplication1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
